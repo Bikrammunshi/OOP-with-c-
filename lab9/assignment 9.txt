@@ -1,0 +1,20 @@
+1.  Write a program in c++ to creAte a Student class which stores the name, roll, and branch 
+    of a student. Derice three classes named InternalExam, MidSemesterExam and EndSemesterExam from
+    it. InternalExam stores internal marks for fiVe different subjects(out of 30). MidSemesterExam
+    stores the MidSemesterExam marks for five different subjects (out of 30) and 
+    EndSemesterExam stores theh end semester exam marks for five different subjects (out of 50).
+    Derice a class Result from InternalExam, MidSemesterExam and EndSemesterExam to compute and display
+    the total marks and percentage of a student.
+
+2.  Create a class which stores employyee name, id and salaray. Derive two classes from 'Employee' class
+    : Regular and Part-time class. The Regular class stores DA, HRA and basic salary.
+    The Part-time class stores the number of hours and pay per hour.
+    Calculate the salary of a regular employee and a part-time employee.
+
+3. Create a class which stores account number, customer number and balance. Derive two classes 
+    from 'Account' class : 'Savings' and 'Current'. The 'Savings' class stores minimum balance.
+    The 'Current' class stores the overdue amount. Include member functions in the appropriate class for    
+        -deposit money
+        -withdraw[For saving account minimum balance should be checked]
+                 [Dor current account overdue amount should be calculated]
+        -display balance

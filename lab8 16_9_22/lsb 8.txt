@@ -1,0 +1,16 @@
+1.  WAP to demonstrate all types of inheritance.
+
+2.  Create a class student which stores name, roll number and age of a student. Derive a class
+    test from a student class, which stores marks in 5 subjectds. Input and display the details of
+    a student.
+3.  Extend the  progran 2 to derive a class form result from class test which includes member funtion
+    to calculate total marks and percentage of a student. Input the data for a student and  
+    display its total marks and percentage.
+
+4.  Entend the program 2 to include a class sports which stores the marks in sports activity,
+    Derive the result class from the classes 'test' and 'sports'. Calculate the total marks
+    and percentage of a student.
+
+5.  Create a class shape . Derive three classes form it: Circle, Triangle and Rectangle . 
+    Include the relevant data members and functions in all the clsses. Find the area od each shape  
+    and displat it.

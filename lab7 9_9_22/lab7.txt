@@ -1,0 +1,6 @@
+1.  WAP that uses dynamic constructor to allocate memory to an array of integer. Count the 
+    number of odd and even elements in an array.
+2.  Create a class which stores x and y coordinates of a point . Write a function to find
+    distance between two point, initialise the objects using parameterized constructor and
+    copy constructor and constructor with default arguments.
+3.  WAP to demonstrate the order of execution of constructor and destructor of a class.
