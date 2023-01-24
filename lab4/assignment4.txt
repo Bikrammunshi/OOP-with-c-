@@ -1,0 +1,5 @@
+1.	WAP to swap private data members of a class using call by value.
+2.	Create a class which stores name, author, and price of a book. Store information for n number of books
+	display information of all the books in a given prive range using function.
+3.	Write a programme to find area of a circle , rectangle, triangle using function overloading.
+4.	
