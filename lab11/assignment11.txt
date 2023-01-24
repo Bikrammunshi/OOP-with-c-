@@ -1,0 +1,29 @@
+1.  Create a class shape. Derive three classes form it; Circle, Square, Triangle. Find are of 
+    each shape and display it using virtual function
+
+2.  Create a class which stores employee name id and salary. Derive two classes from employee
+    class; regular and part time the regular class stores DA , HRA and basic salary. The part
+    time class stores the number of hours and pay per hour. Calculate the salary of a regular
+    employee and a partime employee using virtual function.
+
+3.  Create a class which stores account number, customer name and balance. Derive two classes from 
+    Account class savings and current the savings class stores minimum balance the current
+    class stores the overdue amount. Inchle member functions in the appropriate class for
+        -deposit money
+        -withdray money
+        -dispplay balance
+    Display data from each class using virtual function
+
+4.  WAP to demonstrate use of pure virtual function and abstract base class.
+
+5.  WAP to add two objects of distacne class. Oerload the operator > to compare two objects 
+    and return the object with larger time value and display it. Overload the == operator to 
+    compare and display whether two given objects contain same distance value.
+
+6.  WAP to add two objects of time class. Overload the operator == to compare two objects and
+    display whether they are equal or not.
+
+7.  WAP to create a class time convert time(hh:mm:ss) into seconds integer value
+
+8. WAP to create a class distance having data members km, meter, cm. User enters the distance in
+    centimeters. Conver the distance in to km:mm:cm.

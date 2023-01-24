@@ -1,0 +1,10 @@
+1.  Write to overload following operators for class distance, which stores the distance in
+    feet and inches.
+    a)Binary + to add two objects(d3=d2+d1)
+        add an object to an integer where the integer should be added to the inches value(d2=4+d1)
+    b)unary -
+
+2.  Create a class which a complex number. Add two objects and display the resultant object. 
+    Overload the ++ post and pre operator for the class.
+3.  Wap to add two objects of time class. Overload the operator = to assign two objects.
+    Overload the asignment operator.

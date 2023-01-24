@@ -1,0 +1,8 @@
+1.  WAP to create a class distance havind data in km, meter and cm
+    User enters the distance in centimeters. Convert the distance into
+
+2.  WAP to throw and handle 'division by zero' exception
+
+3.  WAP to throw and handle array out of bounds exception.
+
+4.  WAP to demonstrate multiple catch and catch all.
