@@ -1,0 +1,9 @@
+Q1. 	write a c++ programme to print your address by using endl statement.
+q2. 	write a programme to perform addition , substraction and multiplication of two
+	integers and display the result
+Q3.	write a programe to convert temperature from centrigrade to farenheit scale 
+Q4. 	write a programme to calculate area of triangle whose three sides are given 
+Q5.   write a programme to find the average mark of five subjects of a student and 
+	find the percentage assuming full marks of each subject is 100
+Q6.	Write to convert given paisa into its equivalent rupees and paisa.
+Q7.	write a programme to convert given second into its equivalent hour minute and second
