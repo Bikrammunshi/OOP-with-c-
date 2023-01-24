@@ -1,0 +1,12 @@
+1.  Write a program in c++ to create an exception. If the user entered character is a blacnk then
+    throw the Blank_character_exception else cornvert the user entered uppercase character 
+    to a lowercase character.
+
+2.  Write a program in c++ to create an exception. Throw the exception when user entered mark is less
+    than zerio and greater than 100.
+
+3.  Write a program to enter the numbers in to an array . If the entered number to an odd, then
+    it throws an user defined exception
+
+4.  Write a program to check whether entered number is a prime or not. If the entered number is 
+    not prime then it throws an user defined exception.
